@@ -1,0 +1,1 @@
+web gunicorn csvuploadpj.wsgi:application --log-file -
